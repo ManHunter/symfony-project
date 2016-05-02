@@ -7,3 +7,6 @@
 /app/config/parameters.yml
 /bin
 /vendor
+/tests
+/var
+/.idea
